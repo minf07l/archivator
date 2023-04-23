@@ -1,5 +1,5 @@
 # archivator
-archivator for 3 fyletypes: txt, png, mp3
+archivator for 3 filetypes: txt, png, mp3
 
 
 Мой проект поддерживает 3 типа архивации: RLE-1, RLE-2, Huffman Algorithm.
